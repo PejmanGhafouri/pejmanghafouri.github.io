@@ -42,7 +42,9 @@ My first post is here :)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pejmanghafouri.github.io/resume/</guid>
-      <description>About  With over a decade of extensive experience, I have demonstrated proficiency in Analysis, Design, Development, Management, and Implementation of diverse standalone and client-server enterprise software, adhering to Domain-driven design methodology. I possess adeptness in crafting REST APIs utilizing Python and GO, particularly for large-scale services structured with microservices architecture. My tenure includes serving as a technical lead within Agile (SCRUM) teams, ensuring the delivery of high-quality projects within scheduled timelines.</description>
+      <description>About Me I am a Full Stack Developer with over 5 years of experience in both back-end and front-end technologies
+on the back-end, I specialize in building scalable REST APIs with Python, Django, Odoo, and FastAPI, and have a robust understanding of micro-services architecture. My work involves leveraging advanced database technologies such as PostgreSQL, MySql, Elasticsearch, and Redis to ensure efficient data management and seamless application performance.
+On the frontend, I excel in React, Next.</description>
     </item>
     
   </channel>

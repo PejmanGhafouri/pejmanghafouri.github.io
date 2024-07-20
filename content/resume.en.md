@@ -3,17 +3,21 @@ title: "My Resume"
 draft: false
 ---
 
-## About
+## About Me
 
-- With over a decade of extensive experience, I have demonstrated proficiency in Analysis, Design, Development, Management, and Implementation of diverse standalone and client-server enterprise software, adhering to Domain-driven design methodology.
-- I possess adeptness in crafting REST APIs utilizing Python and GO, particularly for large-scale services structured with microservices architecture.
-- My tenure includes serving as a technical lead within Agile (SCRUM) teams, ensuring the delivery of high-quality projects within scheduled timelines.
-- I bring forth expertise in Object-Oriented concepts, including SOLID principles, GRASP, and GoF design patterns, contributing to robust software solutions.
-- I'm also interested in AI concepts! In my free time, I've been delving into Natural Language Processing (NLP) to explore its applications and enhance my skills in this area.
+I am a **Full Stack Developer** with over 5 years of experience in both back-end and front-end technologies
+
+on the **back-end**, I specialize in building scalable REST APIs with **Python**, **Django**, **Odoo**, and **FastAPI**, and have a robust understanding of **micro-services** architecture. My work involves leveraging advanced database technologies such as **PostgreSQL**, **MySql**, **Elasticsearch**, and **Redis** to ensure efficient data management and seamless application performance.
+
+On the **frontend**, I excel in **React**, **Next**.**js**, and **TypeScript**, and am adept with **CSS frameworks** like **Material**-**UI**, **Ant Design**, and **Tailwind CSS**. I efficiently manage state with **Redux** and **Zustand**, and handle data fetching using **React Query**.
+
+My **DevOps** skills encompass **Linux**, **Docker**, **Nginx**, **GitLab** **CI/CD**, and **GitHub Actions**. I also utilize the **ELK** stack for comprehensive logging and monitoring.
+
+As a **technical lead** in Agile (SCRUM) teams, I ensure the timely delivery of high-quality projects. I am passionate about **mentoring** and have successfully guided **over 10 developers** in enhancing their skills. I thrive in collaborative team environments, always eager to contribute and support my colleagues.
 
 ---
 
-## Experiences (+11 yrs)
+## Experiences (+5 yrs)
 
 1. **Software Architect and Senior Python Developer**
    - WestLink | USA (Remote) | Feb 2022 – Present (2 yrs 3mos)
@@ -48,8 +52,9 @@ draft: false
 
 | Name      |
 | ---------- |
-| Python (for programming and scripting) and GO |
-| Web frameworks and libraries (Django, FastAPI, and Gin) |
+| Python (for programming and scripting) |
+| JavaScript |
+| Web frameworks and libraries (Django, FastAPI,  Odoo, React and Nextjs) |
 | Problem Solving |
 | Programming Concepts |
 | Web Development Concepts |
@@ -61,44 +66,91 @@ draft: false
 
 | Concept                          | Technologies                                                 |
 | -------------------------------- | ------------------------------------------------------------ |
-| Programming Languages            | Python - GO - JavaScript                                     |
-| Software Frameworks              | Django and DRF - FastAPI - Flask - Gin - React js            |
-| Architectural Patterns           | DDD - Monolithic - Microservices - SOA - CQRS - Event Sourcing - FAAS - Outbox - Saga - 2PC |
+| Programming Languages            | Python -  JavaScript                                         |
+| Software Frameworks              | Django and DRF - FastAPI - Flask -  React js - Next js       |
+| Architectural Patterns           | DDD - Monolithic - Microservices - SOA                       |
 | Software Architectures           | Clean Architecture - Hexagonal Architecture                  |
 | OOP Principles                   | SOLID - GRASP - GoF design patterns - Favor composition over inheritance - Least Knowledge |
-| OOP Design Patterns              | Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State - Proxy - Builder - Prototype - Bridge - Flyweight - Memento - Visitor |
-| Databases                        | PostgreSQL - MySQL - MongoDB - Redis - Event Store           |
-| Database Knowledges              | Raw SQL - SQLAlchemy ORM - Django ORM - GORM - Sharding Strategies - Alembic |
+| Databases                        | PostgreSQL - MySQL - MongoDB - Redis                         |
+| Database Knowledges              | Raw SQL - SQLAlchemy ORM - Django ORM -  Alembic             |
 | Search Engine                    | ElasticSearch                                                |
-| Message-Broker and Related Tools | Rabbitmq - Pika - Kafka                                      |
+| Message-Broker and Related Tools | Rabbitmq - Pika                                              |
 | Version Control                  | Git                                                          |
 | OS                               | Debian - Ubuntu                                              |
 | OS Knowledges                    | Memory Management - Process Management                       |
-| SysOps                           | AWS - Kubernetes - Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana |
+| DevOps                           | Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana |
 
 ---
 
-## Key Projects
+## Main Projects
 
-1. **ShiftPay**
-   - WestLink | USA (Remote) | Dec 2022 – Present
-   - A fintech initiative serving the US market.
-   - Facilitates seamless banking interactions and empowers businesses and employees to manage physical and virtual cards with customizable spending limits.
-2. **Squirrel (Compensation)**
-   - WestLink | USA (Remote) | Feb 2022 – Dec 2022
-   - A global employment platform.
-   - Engages numerous B2C and B2B clients through tailored APIs.
-   - Hosted on AWS servers with Docker containers and robust CI pipelines.
-3. **DarsUp**
-   - Mehr-e Pars ICT | Dec 2019 – Feb 2022
-   - A knowledge-based project.
-   - An e-learning system based on the Open Edx platform (edX is an American massive open online course (MOOC) provider created by Harvard and MIT).
-5. **NWMS**
-   - Mehr-e Pars ICT | Jan 2018 – Dec 2019
-   - Developed for the Ministry of Industry, Mining, and Trade.
-6. **Heyat TV**
-   - Mehr-e Pars ICT | Nov 2016 – Jan 2018
-   - A user-centric video-sharing platform.
-7. **Aghigh**
-   - Mehr-e Pars ICT | Jun 2015 – Nov 2016
-   - A social networking platform for national students.
+##### **National Trade Single Window (NTSW)**
+
+*Mehr-e Pars ICT | Dec 2023 – Present*
+
+National Trade Single Window (NTSW) of Iran is developed to establish a single system for managing commercial activities of businessmen and traders in recording goods, purchase and sales information that results in observation, follow up and prevention of redundant information of trade activities.
+
+------
+
+**Rainesh (Odoo)**
+
+*Mehr-e Pars ICT | Apr 2021 – Present*
+
+developed over 10 modules for the Rainesh ERP system based on Odoo 15 community and Odoo 16 Enterprise. My contributions have optimized diverse business processes, showcasing a deep understanding of ERP development and a commitment to driving efficiency and productivity.
+
+------
+
+**Darsup (OpenEdx)**
+
+*Mehr-e Pars ICT | Dec 2021 – Present*
+
+Darsup is a project dedicated to refining online learning through the implementation of advanced features on the OpenEDX Lilac version (EDX is an American massive open online course (MOOC) provider created by Harvard and MIT). Our team embraced micro-service applications, focusing on debugging to ensure robust functionality and an improved user experience. The result is a more flexible, scalable, and user-friendly e-learning system designed to elevate the online learning journey.
+
+------
+
+**Pallet**
+
+*Samantel | Feb 2024 - Present*
+
+Pallet is a wallet project facilitating payment and credit transactions (BNPL) in various currencies. As the Technical Consultant, my responsibilities included:
+
+- **System Architecture:** Implementing a scalable microservices design.
+- **Technical Oversight:** Ensuring industry-standard compliance.
+- **Performance Optimization:** Enhancing system efficiency.
+- **Team Guidance:** Advising the development team.
+- **Security and Deployment:** Ensuring data security and smooth deployment.
+- **Stakeholder Communication:** Engaging with stakeholders to address their needs.
+
+These responsibilities were crucial in achieving the project's objectives and ensuring high-quality performance
+
+------
+
+**Radepa** 
+
+*Karpelleh | Oct 2022 - Present*
+
+We are developing a comprehensive mentorship platform designed for seamless mentor-mentee interactions. Key features include:
+
+- **Milestone Tracking:** Monitor progress effectively.
+- **Communication Tools:** Facilitate easy and efficient interactions.
+- **Project Definition:** Set clear goals with ease.
+- **Secure File Uploads:** Share documents effortlessly.
+- **Online Meetings:** Conduct virtual sessions smoothly.
+
+This platform aims to foster meaningful mentorship connections in a user-friendly and efficient environment.
+
+------
+
+**Fanoos**
+
+*Mehr-e Pars ICT | May 2021 - Mar 2022*
+
+Developed an e-Learning platform with dynamic chat, milestone tracking, and role management. Redefined communication with innovative chat functionality.  Implemented analytics for actionable insights.
+
+------
+
+**Badana**
+
+*Mehr-e Pars ICT | Sep 2019 – Apr 2021*
+
+Created and managed an integrated shop and e-learning system with group buy and selected buy options, secure payments, consulting channels, seminars, blogs, comments/reactions, and a specialized dashboard, ensuring a seamless user experience.
