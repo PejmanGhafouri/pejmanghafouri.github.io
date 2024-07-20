@@ -9,7 +9,7 @@ I am a **Full Stack Developer** with over 5 years of experience in both back-end
 
 on the **back-end**, I specialize in building scalable REST APIs with **Python**, **Django**, **Odoo**, and **FastAPI**, and have a robust understanding of **micro-services** architecture. My work involves leveraging advanced database technologies such as **PostgreSQL**, **MySql**, **Elasticsearch**, and **Redis** to ensure efficient data management and seamless application performance.
 
-On the **frontend**, I excel in **React**, **Next**.**js**, and **TypeScript**, and am adept with **CSS frameworks** like **Material**-**UI**, **Ant Design**, and **Tailwind CSS**. I efficiently manage state with **Redux** and **Zustand**, and handle data fetching using **React Query**.
+On the **frontend**, I excel in **React**, **Next**.**js**, and **TypeScript**, and am adept with **CSS frameworks** like **Material**-**UI**, **Ant Design**, and **Tailwind CSS**. I efficiently manage state with **Redux** and **Zustand**, and handle data fetching using **React Query**, and enhance form validation and management with **Yup** and **React Hook Form.**
 
 My **DevOps** skills encompass **Linux**, **Docker**, **Nginx**, **GitLab** **CI/CD**, and **GitHub Actions**. I also utilize the **ELK** stack for comprehensive logging and monitoring.
 
