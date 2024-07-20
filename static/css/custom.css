@@ -24,7 +24,7 @@ h3 {
 }
 
 .site__title {
-    font-size: 1.5rem !important;
+    font-size: 1.4rem !important;
     display: block;
     margin-bottom: 30px;
 }
@@ -67,6 +67,10 @@ li p {
     .content {
         max-width: 55rem;
     }
+}
+
+.sidebar {
+    background-color: #134B70;
 }
 
 .site__description {
