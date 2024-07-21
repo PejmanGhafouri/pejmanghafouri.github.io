@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pejman Ghafouri</title>
+    <link>https://pejmanghafouri.github.io/</link>
+    <description>Recent content on Pejman Ghafouri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate><atom:link href="https://pejmanghafouri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://pejmanghafouri.github.io/posts/hello_world/</link>
+      <pubDate>Sat, 17 Oct 2020 14:11:13 +0330</pubDate>
+      
+      <guid>https://pejmanghafouri.github.io/posts/hello_world/</guid>
+      <description>Hello!
+My first post is here :)</description>
+    </item>
+    
+    <item>
+      <title>DarsUp</title>
+      <link>https://pejmanghafouri.github.io/portfolio/darsup/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pejmanghafouri.github.io/portfolio/darsup/</guid>
+      <description>DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://pejmanghafouri.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pejmanghafouri.github.io/contact/</guid>
+      <description>I am available 24/7
+ Phone Number: (+98) 935 186 9434 Email: pejmanghafouricorp@gmail.com linkedin: Click Here GitHub: Click Here Telegram: Click Here  </description>
+    </item>
+    
+    <item>
+      <title>My Resume</title>
+      <link>https://pejmanghafouri.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pejmanghafouri.github.io/resume/</guid>
+      <description>About Me I am a Full Stack Developer with over 5 years of experience in both back-end and front-end technologies
+on the back-end, I specialize in building scalable REST APIs with Python, Django, Odoo, and FastAPI, and have a robust understanding of micro-services architecture. My work involves leveraging advanced database technologies such as PostgreSQL, MySql, Elasticsearch, and Redis to ensure efficient data management and seamless application performance.
+On the frontend, I excel in React, Next.</description>
+    </item>
+    
+  </channel>
+</rss>
