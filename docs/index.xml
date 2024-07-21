@@ -42,9 +42,8 @@ My first post is here :)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pejmanghafouri.github.io/resume/</guid>
-      <description>About Me I am a Full Stack Developer with over 5 years of experience in both back-end and front-end technologies
-on the back-end, I specialize in building scalable REST APIs with Python, Django, Odoo, and FastAPI, and have a robust understanding of micro-services architecture. My work involves leveraging advanced database technologies such as PostgreSQL, MySql, Elasticsearch, and Redis to ensure efficient data management and seamless application performance.
-On the frontend, I excel in React, Next.</description>
+      <description>About Me As a Full Stack Developer with over 5 years of experience, I specialize in building scalable web applications from the ground up. My expertise spans both back-end and front-end technologies:
+ Back-End: I develop robust systems using Python, Django, Odoo, and FastAPI, and work with databases like PostgreSQL, MySQL, Elasticsearch, and Redis. I have a solid background in developing and managing microservices architectures.I handle asynchronous tasks using Celery in conjunction with RabbitMQ for efficient task queuing and message brokering.</description>
     </item>
     
   </channel>

@@ -5,46 +5,79 @@ draft: false
 
 ## About Me
 
-I am a **Full Stack Developer** with over 5 years of experience in both back-end and front-end technologies
+As a **Full Stack Developer** with over 5 years of experience, I specialize in building scalable web applications from the ground up. My expertise spans both back-end and front-end technologies:
 
-on the **back-end**, I specialize in building scalable REST APIs with **Python**, **Django**, **Odoo**, and **FastAPI**, and have a robust understanding of **micro-services** architecture. My work involves leveraging advanced database technologies such as **PostgreSQL**, **MySql**, **Elasticsearch**, and **Redis** to ensure efficient data management and seamless application performance.
+- **Back-End**: I develop robust systems using **Python**, **Django**, **Odoo**, and **FastAPI**, and work with databases like **PostgreSQL**, **MySQL**, **Elasticsearch**, and **Redis**. I have a solid background in developing and managing **microservices architectures**.I handle asynchronous tasks using **Celery** in conjunction with **RabbitMQ** for efficient task queuing and message brokering.
+- **Front-End**: On the client side, I leverage **React**, **Next.js**, and **TypeScript** within **Nx monorepos**. My UI work is enhanced with CSS frameworks such as **Material-UI**, **Ant Design**, and **Tailwind CSS**. I manage state with **Redux** and **Zustand**, handle data with **React Query**, and ensure form validation through **Yup**, **Zod** and **React Hook Form**.
+- **DevOps**: My DevOps skills include **Docker**, **Linux**, **Nginx**, and CI/CD pipelines with **GitLab** and **GitHub Actions**. I also monitor and log performance using the **ELK** stack, **Grafana**, and **Prometheus**.
 
-On the **frontend**, I excel in **React**, **Next**.**js**, and **TypeScript**, and am adept with **CSS frameworks** like **Material**-**UI**, **Ant Design**, and **Tailwind CSS**. I efficiently manage state with **Redux** and **Zustand**, and handle data fetching using **React Query**, and enhance form validation and management with **Yup** and **React Hook Form.**
-
-My **DevOps** skills encompass **Linux**, **Docker**, **Nginx**, **GitLab** **CI/CD**, and **GitHub Actions**. I also utilize the **ELK** stack for comprehensive logging and monitoring.
-
-As a **technical lead** in Agile (SCRUM) teams, I ensure the timely delivery of high-quality projects. I am passionate about **mentoring** and have successfully guided **over 10 developers** in enhancing their skills. I thrive in collaborative team environments, always eager to contribute and support my colleagues.
+In my role as a **Technical Lead**, I oversee project delivery and mentor a team of over 10 developers. I thrive in collaborative environments, ensuring projects are completed on time and to the highest standards. I am committed to continuous learning and applying innovative solutions to complex problems, making me an asset to any development team.
 
 ---
 
 ## Experiences (+5 yrs)
 
-1. **Software Architect and Senior Python Developer**
-   - WestLink | USA (Remote) | Feb 2022 – Present (2 yrs 3mos)
-   - Facilitated communication with stakeholders to elucidate business initiatives, establish roadmaps, and ascertain software requirements.
-   - Spearheaded the development of ShiftPay (fintech) and Squirrel projects, adhering to clean architecture standards and microservices architecture, subsequently deploying them on AWS servers.
-   - Conducted thorough reviews and revisions of software designs to ensure technical compliance and suggested architectural enhancements.
-   - Vigorously investigated and resolved technical challenges while actively engaging in all project phases.
-2. **Technical Lead and Senior Python Developer**
-   - Mehr-e Pars ICT | Dec 2019 – Feb 2022 (2 yrs 3 mos)
-   - Led a team of 12 senior and mid-level developers as the technical lead.
-   - Spearheaded the design and development of DarsUp (an e-learning platform) utilizing a microservices architecture based on the Open edX platform (edX, a massive open online course provider founded by Harvard and MIT).
-   - Architected solutions for all company projects, ensuring scalability to accommodate large monthly user volumes.
-   - Introducing Domain-Driven Design (DDD) principles, architectural patterns, and conducted code quality reviews to mitigate technical debt.
-   - Provided mentorship to 9 junior Python developers, fostering independence and skill acquisition.
-   - Held a board membership and maintained an 8% ownership stake in the company.
-3. **Senior Python Developer**
-   - Mehr-e Pars ICT | Nov 2016 – Dec 2019 (3 yrs 2 mos)
-   - Spearheaded the development of national warehouse management system.
-   - Contributed to the collaborative effort behind Aghigh, a social network tailored for national students.
-   - Led the implementation of development automation leveraging Docker, GitLab CI/CD, and various other tools, ensuring efficient workflows.
-   - Successfully identified and resolved numerous performance bottlenecks within company projects, optimizing them for large-scale deployment.
-4. **Python Developer**
-   - Mehr-e Pars ICT | Jun 2014 – Nov 2016 (2 yr 6 mos)
-   - Played a crucial role in the design and development of company projects utilizing Python, React.js, HTML5, CSS3, Ajax, and JSON. These contributions significantly contributed to the success of various initiatives.
-   - Demonstrated proficiency in Django technologies, leveraging forms, templates, and ORM for effective database communication across diverse project phases. Utilized interceptors, validators, and actions to enhance functionality and performance.
-5. **Full Stack Web Developer (Django & React.js)**
-   - Freelance | Jul 2013 – Jun 2014 (1 yr)
+**Technical Lead and Fullstack Developer**
+
+***Mehr-e Pars ICT** | Sep 2019 – Present (4 yrs 10 mos)* | On-site
+
+**Led a team of 7 junior and mid-level developers**: Oversaw the technical development and provided guidance as the technical lead.
+
+**Provided mentorship**: Mentored 10 junior and mid-level developers, fostering independence and skill acquisition.
+
+**DarsUp E-Learning Platform**: Spearheaded the design and development of DarsUp, an e-learning platform, utilizing a microservices architecture based on the Open edX platform (edX, a massive open online course provider founded by Harvard and MIT).
+
+**Odoo ERP Enterprise Development**: Led project management overhaul and enterprise version development of Odoo ERP, developing and optimizing software modules for enhanced performance.
+
+**National Trade Single Window Upgrade**: Upgraded the National Trade Single Window to a monorepo architecture using Nx, improving scalability and performance.
+
+**Atlas System Consultation**: Provided technical consultation for the Atlas system, mapping over 2000 knowledge-based companies to enhance monitoring and evaluation.
+
+**National Warehouse System Implementation**: Consulted and implemented the national warehouse system, streamlining inventory management and improving logistics efficiency.
+
+**Performance Optimization**: Successfully identified and resolved numerous performance bottlenecks within company projects, optimizing them for large-scale deployment.
+
+**Solution Architecture**: Architected solutions for all company projects, ensuring scalability to accommodate large monthly user volumes.
+
+------
+
+
+
+**Technical Lead and Senior Python Developer**
+
+***Karpelleh** | Oct 2022 – Present (1 yrs 9 mos) | Remote*
+
+**Development of the First National Mentoring System (Radepa) and Employment System (Karpelleh)**: Led the development and improvement of one of the country's first mentoring systems and enhanced the employment system process
+
+**Frontend Technology Migration and Performance Improvement:** Migrated the frontend from Vue to Next.js, significantly improving load speed, state management, and microservice communications.
+
+**Technical Team Management and Business Consultation:** Supervised the technical team and provided business consultation for team implementation.
+
+**Database Optimization:** Resolved critical database issues that were causing system bottlenecks.
+
+------
+
+
+
+**Technical Consultant**
+
+***Samantel** | Feb 2024 – Present ( 6 mos) | Part-time*
+
+**Designing the architecture**: Develop a comprehensive software architecture to support wallet functionalities across three levels: organizational, personal, and national, incorporating over 10 subsystems.
+
+**Business Requirement Analysis**: Provide consulting services to enhance software processes based on business requirements, ensuring alignment with organizational goals and optimizing performance.
+
+**Documentation Creation**: Prepare detailed technical documentation for presentation to the contractor team, including architecture diagrams, functional specifications, and integration plans.
+
+**Team Guidance**: Lead and manage the technical team throughout the software development and deployment phases, ensuring effective implementation and adherence to project requirements.
+
+------
+
+
+
+**Full Stack Web Developer (Django, ReactJs)**
+
+- Freelance | Aug 2018 –Sep 2019 (1 yrs 11mos) | Remote
 
 ---
 
@@ -84,73 +117,56 @@ As a **technical lead** in Agile (SCRUM) teams, I ensure the timely delivery of 
 
 ## Main Projects
 
-##### **National Trade Single Window (NTSW)**
+#### **National Trade Single Window (NTSW)**
 
-*Mehr-e Pars ICT | Dec 2023 – Present*
+*Mehr-e Pars ICT | Jan 2023 – Present*
 
-National Trade Single Window (NTSW) of Iran is developed to establish a single system for managing commercial activities of businessmen and traders in recording goods, purchase and sales information that results in observation, follow up and prevention of redundant information of trade activities.
-
-------
-
-**Rainesh (Odoo)**
-
-*Mehr-e Pars ICT | Apr 2021 – Present*
-
-developed over 10 modules for the Rainesh ERP system based on Odoo 15 community and Odoo 16 Enterprise. My contributions have optimized diverse business processes, showcasing a deep understanding of ERP development and a commitment to driving efficiency and productivity.
+Developed a unified system for managing Iran’s commercial activities, streamlining trade data entry and reducing redundancy. Enhanced system efficiency and data accuracy.
 
 ------
 
-**Darsup (OpenEdx)**
+#### **Rainesh (Odoo)**
+
+*Mehr-e Pars ICT | Apr 2022 – Present*
+
+Created over 10 custom modules for the Rainesh ERP system using Odoo 15 and 16, optimizing business processes and boosting operational efficiency through tailored ERP solutions.
+
+------
+
+#### **Darsup (OpenEdx)**
 
 *Mehr-e Pars ICT | Dec 2021 – Present*
 
-Darsup is a project dedicated to refining online learning through the implementation of advanced features on the OpenEDX Lilac version (EDX is an American massive open online course (MOOC) provider created by Harvard and MIT). Our team embraced micro-service applications, focusing on debugging to ensure robust functionality and an improved user experience. The result is a more flexible, scalable, and user-friendly e-learning system designed to elevate the online learning journey.
+Enhanced the Darsup e-learning platform on OpenEDX Lilac by integrating microservices and debugging, resulting in improved system flexibility, scalability, and user experience.
 
 ------
 
-**Pallet**
+#### **Pallet**
 
 *Samantel | Feb 2024 - Present*
 
-Pallet is a wallet project facilitating payment and credit transactions (BNPL) in various currencies. As the Technical Consultant, my responsibilities included:
-
-- **System Architecture:** Implementing a scalable microservices design.
-- **Technical Oversight:** Ensuring industry-standard compliance.
-- **Performance Optimization:** Enhancing system efficiency.
-- **Team Guidance:** Advising the development team.
-- **Security and Deployment:** Ensuring data security and smooth deployment.
-- **Stakeholder Communication:** Engaging with stakeholders to address their needs.
-
-These responsibilities were crucial in achieving the project's objectives and ensuring high-quality performance
+Architected and consulted a multi-currency wallet system with BNPL functionality. Focused on designing scalable microservices, ensuring performance, security, and seamless deployment.
 
 ------
 
-**Radepa** 
+#### **Radepa**
 
 *Karpelleh | Oct 2022 - Present*
 
-We are developing a comprehensive mentorship platform designed for seamless mentor-mentee interactions. Key features include:
-
-- **Milestone Tracking:** Monitor progress effectively.
-- **Communication Tools:** Facilitate easy and efficient interactions.
-- **Project Definition:** Set clear goals with ease.
-- **Secure File Uploads:** Share documents effortlessly.
-- **Online Meetings:** Conduct virtual sessions smoothly.
-
-This platform aims to foster meaningful mentorship connections in a user-friendly and efficient environment.
+Developed a mentorship platform with features for milestone tracking, secure file sharing, and communication tools. Facilitated effective mentor-mentee interactions and progress monitoring.
 
 ------
 
-**Fanoos**
+#### **Fanoos**
 
-*Mehr-e Pars ICT | May 2021 - Mar 2022*
+*Mehr-e Pars ICT | May 2020 - Mar 2022*
 
-Developed an e-Learning platform with dynamic chat, milestone tracking, and role management. Redefined communication with innovative chat functionality.  Implemented analytics for actionable insights.
+Built an e-learning platform featuring dynamic chat, milestone tracking, and comprehensive role management, enhancing user communication and learning experience through advanced analytics.
 
 ------
 
-**Badana**
+#### **Badana**
 
-*Mehr-e Pars ICT | Sep 2019 – Apr 2021*
+*Mehr-e Pars ICT | Sep 2019 – Apr 2020*
 
-Created and managed an integrated shop and e-learning system with group buy and selected buy options, secure payments, consulting channels, seminars, blogs, comments/reactions, and a specialized dashboard, ensuring a seamless user experience.
+Designed an integrated shop and e-learning system with features like secure payments and interactive content. Streamlined user experience by combining e-commerce and educational functionalities.
